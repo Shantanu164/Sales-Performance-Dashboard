@@ -1,2 +1,2 @@
-# Sales-Performance-Dashboard
-Sales Performance Dashboard built in Microsoft Excel, including KPI tracking, agent productivity insights, trend analysis, and revenue performance visualization.
+# Sales-Performance-Dashboard (Excel)
+This project is an interactive Sales Performance Dashboard built in Microsoft Excel to analyze and visualize call center / sales agent performance. The dashboard provides key insights into productivity, conversions, and revenue trends.
